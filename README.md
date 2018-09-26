@@ -1,3 +1,0 @@
-# hello-world
-first repository!
-write a bit about yourself...
